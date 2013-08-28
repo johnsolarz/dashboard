@@ -1,7 +1,7 @@
 WP Dashboard
 ============
 
-ESC WordPress login, dashboard and widgets
+Eight Seven Central WordPress login, dashboard and widgets
 
 Install
 -------
