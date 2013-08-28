@@ -1,0 +1,76 @@
+/**
+ * Eight Seven Central WordPress login
+ */
+
+body.login {
+  background: #e7e7e7;
+}
+.login h1 a {
+  background-image: url("../img/login.png"); /* edit to match your theme structure */
+  background-size: 320px 220px;
+  width: 320px;
+  height: 220px;
+}
+#login_error,
+.login .message {
+  margin: 0 8px 16px 8px;
+}
+.login form {
+  margin-left: 8px;
+  margin-right:8px;
+  padding: 26px 0;
+  background: transparent;
+  border: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.login form .input {
+  background: #fff;
+  border: 2px solid #ccc;
+  font-size: 16px;
+  min-height: 36px;
+  padding: 0 12px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.login form .input:focus {
+  border-color: #999;
+}
+.login #nav, .login #backtoblog {
+  text-shadow: #fff 0 1px 0;
+  margin: 0 8px;
+  padding: 16px 0 0;
+}
+.login #nav a,
+.login #backtoblog a {
+  color: #aaa !important;
+  text-decoration: none;
+  text-shadow: none;
+}
+.login #nav a:hover,
+.login #backtoblog a:hover {
+  color: #888 !important;
+}
+.wp-core-ui .button-primary {
+  background-color: #464646;
+  background-image: none;
+  border: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.wp-core-ui .button-primary:hover {
+  background-color: #151515;
+  background-image: none;
+  border: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.wp-core-ui .button.button-large {
+  padding: 0 12px 0;
+}
+div.updated, .login .message {
+  background-color: #fff;
+  border-color: #ccc;
+}
