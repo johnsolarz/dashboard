@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Dashboard
+Plugin Name: ESC Dashboard
 Plugin URI:  http://eightsevencentral.com
 Description: Custom login page, dashboard and sidebar widgets.
 Version:     1.0

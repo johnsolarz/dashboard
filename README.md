@@ -1,10 +1,11 @@
-Dashboard
-=========
+ESC Dashboard
+=============
 
-Custom WordPress login page, dashboard and sidebar widgets. Copyright (C) Eight Seven Central.
+Eight Seven Central WordPress plugin. Custom login page, dashboard and sidebar widgets.
 
 Author
 ------
 
 John Solarz<br>
 [Eight Seven Central](http://eightsevencentral.com)
+
