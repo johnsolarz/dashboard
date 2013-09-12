@@ -1,12 +1,8 @@
-/**
- * Eight Seven Central WordPress login
- */
-
 body.login {
   background: #e7e7e7;
 }
 .login h1 a {
-  background-image: url("../img/login.png"); /* edit to match your theme structure */
+  background-image: url("../img/login.png");
   background-size: 320px 220px;
   width: 320px;
   height: 220px;
