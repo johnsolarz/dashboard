@@ -1,7 +1,0 @@
-{
-    "name": "johnsolarz/esc-dashboard",
-    "type": "wordpress-plugin",
-    "require": {
-        "composer/installers": "~1.0"
-    }
-}
