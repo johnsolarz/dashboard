@@ -1,7 +1,7 @@
 ESC Dashboard
 =============
 
-Eight Seven Central WordPress plugin. Custom login page, dashboard and sidebar widgets.
+Eight Seven Central WordPress plugin. Custom login page, dashboard, and sidebar widgets.
 
 Author
 ------
