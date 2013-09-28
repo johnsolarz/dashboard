@@ -1,10 +1,8 @@
-ESC Dashboard
-=============
+# Dashboard
 
-Eight Seven Central WordPress plugin. Custom login page, dashboard, and sidebar widgets.
+Built by Eight Seven Central in Des Moines, Iowa. This work is protected. © Eight Seven Central.
 
-Author
-------
+## Author
 
 John Solarz<br>
 [Eight Seven Central](http://eightsevencentral.com)

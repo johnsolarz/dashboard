@@ -2,7 +2,7 @@
 /*
 Plugin Name: ESC Dashboard
 Plugin URI:  http://eightsevencentral.com
-Description: Custom login page, dashboard, and widgets.
+Description: Custom login page, dashboard and widgets.
 Version:     1.0
 Author:      Eight Seven Central
 Author URI:  http://eightsevencentral.com
