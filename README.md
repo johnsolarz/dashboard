@@ -1,6 +1,6 @@
-# Dashboard
+# [Dashboard](http://eightsevencentral.com/)
 
-Built by Eight Seven Central in Des Moines, Iowa. This work is protected. © Eight Seven Central.
+Built by Eight Seven Central in Des Moines, Iowa. This work is protected.
 
 ## Author
 
