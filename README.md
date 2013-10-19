@@ -1,6 +1,6 @@
-# [Dashboard](http://eightsevencentral.com/)
+# [ESC Dashboard](http://eightsevencentral.com/)
 
-Built by Eight Seven Central in Des Moines, Iowa. This work is protected.
+Custom login page, dashboard and widgets. Built by Eight Seven Central in Des Moines, Iowa.
 
 ## Author
 
