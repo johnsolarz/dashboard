@@ -9,22 +9,18 @@ body.login {
 }
 #login_error,
 .login .message {
-  margin: 0 8px 16px 8px;
+  margin: 0 8px;
 }
 .login form {
-  margin-left: 8px;
-  margin-right:8px;
-  padding: 26px 0;
+  padding: 26px 8px;
   background: transparent;
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  -webkit-border-radius: 0;
-  border-radius: 0;
 }
 .login form .input {
   background: #fff;
-  border: 2px solid #ccc;
+  border: 1px solid #bbb;
   font-size: 16px;
   min-height: 36px;
   padding: 0 12px;
@@ -55,18 +51,14 @@ body.login {
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
 }
-.wp-core-ui .button-primary:hover {
+.wp-core-ui .button-primary:hover,
+.wp-core-ui .button-primary:focus {
   background-color: #151515;
   background-image: none;
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-}
-.wp-core-ui .button.button-large {
-  padding: 0 12px 0;
-}
-div.updated, .login .message {
-  background-color: #fff;
-  border-color: #ccc;
 }

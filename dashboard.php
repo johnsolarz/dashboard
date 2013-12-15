@@ -2,8 +2,8 @@
 /*
 Plugin Name: ESC Dashboard
 Plugin URI:  http://eightsevencentral.com
-Description: Custom login page, dashboard and widgets.
-Version:     1.0
+Description: Eight Seven Central login page, dashboard and widgets.
+Version:     1.1
 Author:      Eight Seven Central
 Author URI:  http://eightsevencentral.com
 License:     Not licensed for public use.
@@ -44,7 +44,7 @@ function dashboard_esc_feed_output() {
   echo '<div class="rss-widget">';
   wp_widget_rss_output(array(
     'url'          => 'http://www.eightsevencentral.com/feed',
-    'title'        => 'What\'s up at 8/7',
+    'title'        => 'What\'s up at Eight Seven Central',
     'items'        => 3,
     'show_summary' => 1,
     'show_author'  => 0,
@@ -76,7 +76,7 @@ add_action('wp_dashboard_setup', 'esc_dashboard_widgets' );
  */
 add_filter( 'admin_footer_text', 'esc_admin_footer_text' );
 function esc_admin_footer_text( $default_text ) {
-  return '<span id="footer-thankyou">Design + Development by <a href="http://eightsevencentral.com">Eight Seven Central</a>';
+  return 'Design + Development by <a href="http://eightsevencentral.com">Eight Seven Central</a>';
 }
 
 /**
