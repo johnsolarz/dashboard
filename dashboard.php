@@ -95,24 +95,3 @@ function esc_admin_bar(){
  * @link http://www.vooshthemes.com/blog/wordpress-tip/wordpress-quick-tip-remove-the-dashboard-update-message/
  */
 add_action( 'admin_init', create_function('', 'remove_action( \'admin_notices\', \'update_nag\', 3 );') );
-
-/**
- * Remove default sidebar widgets
- *
- * @link http://www.everparent.com/lunaticfred/2011/05/05/how-to-remove-default-sidebar-widgets-in-wordpress/
- */
-function esc_sidebar_widgets() {
-  //unregister_widget('WP_Widget_Pages');
-  unregister_widget('WP_Widget_Calendar');
-  unregister_widget('WP_Widget_Archives');
-  unregister_widget('WP_Widget_Meta');
-  unregister_widget('WP_Widget_Search');
-  //unregister_widget('WP_Widget_Text');
-  //unregister_widget('WP_Widget_Categories');
-  //unregister_widget('WP_Widget_Recent_Posts');
-  unregister_widget('WP_Widget_Recent_Comments');
-  unregister_widget('WP_Widget_RSS');
-  unregister_widget('WP_Widget_Tag_Cloud');
-  //unregister_widget('WP_Nav_Menu_Widget');
-}
-add_action( 'widgets_init', 'esc_sidebar_widgets' );
