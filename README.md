@@ -1,6 +1,6 @@
 # [ESC Dashboard](http://eightsevencentral.com/)
 
-Eight Seven Central login page, dashboard and widgets.
+Eight Seven Central login page, dashboard, widgets and TinyMCE formats.
 
 ## Author
 
